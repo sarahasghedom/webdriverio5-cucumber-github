@@ -1,10 +1,12 @@
 Example project on how to setup webdriverio 5 with cucumber.
 
 **Clone this project**
-- git clone git@gitlab.com:sarahasghedom/webdriverio5-cucumber.git
+- git clone https://github.com/sarahasghedom/webdriverio5-cucumber-github.git
+OR
+- git clone git@github.com:sarahasghedom/webdriverio5-cucumber-github.git
 - run npm install
 
-_OR_ If you want to start from scratch
+OR you can start from scratch by following the steps below
 
 **Installing webdrivio & cucumber**
 - Create a new folder and create a package.json file
